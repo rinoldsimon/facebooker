@@ -1,0 +1,1 @@
+Social plugins let you see what your friends have liked, commented on or shared on sites across the web.
